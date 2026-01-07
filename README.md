@@ -1,3 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/CyberDEV448">CyberDEV448</a>! 👋</h1>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=CyberDEV448&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Awesome Project X**
+- 🌱 I’m currently learning **Advanced Algorithms**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **I can center a div!**
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+| Top Languages | GitHub Stats |
+| ------------- | ------------ |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDEV448&layout=compact&theme=dracula" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=CyberDEV448&show_icons=true&theme=dracula" alt="GitHub Stats" /> |
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="Streak Stats" />
+</p>
