@@ -46,14 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=CyberDEV448&show_icons=true&theme=radical" alt="CyberDEV448's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDEV448&layout=compact&theme=radical" alt="CyberDEV448's Top Languages" /> |
-|:---:|:---:|
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/CyberDEV448?theme=radical&font=Fira%20Code" alt="LeetCode Stats" />
-</p>
 
 ### Roadmap.sh Stats
 [![roadmap.sh](https://roadmap.sh/card/tall/69739e185c049b276548c725?variant=dark&roadmaps=%2Cjava%2Cpython%2Csql)](https://roadmap.sh)
